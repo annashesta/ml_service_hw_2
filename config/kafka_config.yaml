@@ -1,0 +1,4 @@
+bootstrap_servers: kafka:9092
+consumer_group: fraud_detection_group
+input_topic: transactions
+output_topic: scores
